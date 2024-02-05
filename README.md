@@ -33,12 +33,17 @@ In order to make it easier to test the project the Web export is also automatica
 **Please follow the following steps exactly as described, in order to run the game properly on the web:**
 
 1. Open a new browser window.
+2. Go to https://rasalagean.github.io/endless-runner/
+3. Wait till the game loads and start playing :)
+
+If the game works fine, nothing else to do. However if it looks broken please follow these steps:
+
+1. Open a new browser window.
 2. Open the web developer tools and resize the browser window to be 1152px x 648px. (Opening the web developer tools should display the window size while resizing)
-3. Go to https://github.com/rasalagean/endless-runner
-4. Wait till the game loads and start playing :)
+3. Go to https://rasalagean.github.io/endless-runner/
+3. Wait till the game loads and start playing :)
 
-
-*Following these steps is necessary as the configured Godot project window size is 1152px x 648px. A different window size will break the game. For the Linux and Windows runnables this is not necessary as they have a fixed window size anyways.*
+*Following these steps may be necessary as the configured Godot project window size is 1152px x 648px. A different window size may break the game. For the Linux and Windows runnables this is not necessary as they have a fixed window size anyways.*
 ## Deployment
 
 There is a Github Action linked to this repository. Whenever a commit is pushed to the main branch, the process starts.
