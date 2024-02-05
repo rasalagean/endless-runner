@@ -1,8 +1,4 @@
 extends Node
-# https://ansimuz.itch.io/parallax-forest
-# https://arks.itch.io/dino-characters
-# https://www.filippovicarelli.com/8bit-game-background-music
-# https://sfxr.me/
 
 var GLOBALS = Globals.new()
 var obstacles = Obstacles.new()
