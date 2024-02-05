@@ -9,9 +9,12 @@ This game was developed as a project for the missing-semester lecture at JKU Lin
 - [@rasalagean](https://github.com/rasalagean) - K12116140
 
 
-## Demo
+## Screenshots
+![image](https://github.com/rasalagean/endless-runner/assets/151786698/a228159f-4884-4c39-a160-073050a30e8f)
 
+![image](https://github.com/rasalagean/endless-runner/assets/151786698/c252bab5-7e56-4a52-aa2d-d2a7230ca325)
 
+![image](https://github.com/rasalagean/endless-runner/assets/151786698/600cdf9a-42c9-4deb-9233-83dddad7dd36)
 
 ## Run Locally
 
